@@ -3,16 +3,16 @@
 
 #pragma once
 #include "afxwin.h"
-#include "compiler.h"
+//#include "compiler.h"
 #include "PM3DDICP.h"
 #include "PM3CsafeCP.h"
-#include "pc_error.h"
+//#include "pc_error.h"
 #include "MMSystem.h"
-#include "tk_time.h"
+//#include "tk_time.h"
 #include "csafe.h"
 
 #pragma pack(push, before_firmware, 1)
-#include "logmap.h"
+//#include "logmap.h"
 #pragma pack(pop, before_firmware)
 
 // CPMSDKDemoDlg dialog

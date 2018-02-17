@@ -10,7 +10,7 @@
 #endif
 
 
-// CPMSDKDemoApp Test af github igen igen igen igen
+// CPMSDKDemoApp
 
 BEGIN_MESSAGE_MAP(CPMSDKDemoApp, CWinApp)
 	ON_COMMAND(ID_HELP, &CWinApp::OnHelp)
